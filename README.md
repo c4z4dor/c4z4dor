@@ -8,7 +8,7 @@ I am a Mexican programming enthusiast, with the spirit of sharing knowledge and 
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/fernandomireles](https://www.linkedin.com/in/fernandomireles/)
+- LinkedIn: [linkedin.com/in/fernandomireles](https://bo.linkedin.com/in/rodrigo-chigua-35a202218?trk=public_profile_samename-profile)
 - Instagram: [instagram.com/fernandodilland](https://www.instagram.com/fernandodilland/)
 - Facebook: [facebook.com/fernandodilland](https://www.facebook.com/FernandoDilland)
 
