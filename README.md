@@ -1,6 +1,6 @@
 ![natterstefan](https://res.cloudinary.com/dxgwcpdom/image/upload/v1623223350/GitHub/fm_y6xlzk.png)
 
-![GitHub Views](https://komarev.com/ghpvc/?username=fernandomireles&color=2685BF)
+![GitHub Views](https://github.com/c4z4dor)
 
 ## Hi there 👋🏻,
 
@@ -8,7 +8,7 @@ I am a Mexican programming enthusiast, with the spirit of sharing knowledge and 
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/fernandomireles](https://bo.linkedin.com/in/rodrigo-chigua-35a202218?trk=public_profile_samename-profile)
+- LinkedIn: [linkedin.com/in/fernandomireles](https://www.linkedin.com/in/fernandomireles/)
 - Instagram: [instagram.com/fernandodilland](https://www.instagram.com/fernandodilland/)
 - Facebook: [facebook.com/fernandodilland](https://www.facebook.com/FernandoDilland)
 
